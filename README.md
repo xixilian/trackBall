@@ -16,4 +16,9 @@ First of all, install OpenCV, these scripts work well with the version 2.7, if y
 
 Some other dependencies : 
 
+  numpy, imutils(for picture alignment), glob
+  
+After all the dependencies stuffs, run : python main.py in terminal
+
+Have fun :D
   
